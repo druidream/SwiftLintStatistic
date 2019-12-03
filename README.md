@@ -1,5 +1,7 @@
 # SwiftLintStatistic
 
+### Usage
+
 `python main.py`
 
 ### Convention
